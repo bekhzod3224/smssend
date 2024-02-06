@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216825408617",
+    "project_id": "sendsms-23ddd",
+    "storage_bucket": "sendsms-23ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216825408617:android:d9485aac5a0a1bfe7b86f8",
+        "android_client_info": {
+          "package_name": "com.example.send_sms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXWSxzXU3i2no80ULkLTP3t7B1AnPOJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
